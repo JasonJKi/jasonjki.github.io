@@ -18,7 +18,7 @@ tagline:             Communicating technology and innovation.
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Jason Ki -Home.
+  Hello world, I'm Jason Ki. I'm interested in tech and innovation. My area of research is in neurosience, more specifically encoding and decoding of the brain. I'm also interested in delivering technical contents to the general audience like you and I.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
