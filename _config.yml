@@ -2,15 +2,15 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               Jason Ki- Home
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://jasonki.com
+url:                 https://jasonjki.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /jasonjki
+baseurl:             //jasonjki.github.io
 
 # A very short description of your page
 tagline:             Communicating technology and innovation.
@@ -18,8 +18,7 @@ tagline:             Communicating technology and innovation.
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Hello world, I'm Jason Ki. I'm interested in tech and innovation. My area of research is in neurosience, more specifically encoding and decoding of the brain. I'm also interested in delivering technical contents to the general audience like you and I.
-
+  
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              <jason> <ki>
@@ -66,13 +65,13 @@ paginate_path:       '/page-:num/'
 
 # Set to true when building with the `--lsi` option
 # See: https://jekyllrb.com/docs/variables/#site-variables
-# use_lsi:             true
+use_lsi:             true
 
 # Set to `true` if you don't want to show an icon after each link that opens to an external site
 # no_mark_external:    true
 
 # Uncomment this line if third party plugins fail to work with dynimically loaded pages
-# disable_push_state:  true
+disable_push_state:  true
 
 # Uncomment this line if want to disable the touch drawer on mobile
 # disable_drawer: true
