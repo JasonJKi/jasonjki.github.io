@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 Jason:
-  name:              <Jason> <Ki>
-  email:             <ki.jasonj@gmail.com>
+  name:              Jason Ki
+  email:             ki.jasonj@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,8 +26,10 @@ Jason:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        <jason.ki1>
-    twitter:         <jasonki1990>
+    #facebook:        jason.ki1
+    github:          JasonJKi
+    email:           mailto:ki.jasonj@gmail.com
+    twitter:         jasonki1990
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -36,7 +38,7 @@ Jason:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <moejobe>
+    instagram:       moejobe
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -50,7 +52,6 @@ Jason:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <jasonjki>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,5 +62,4 @@ Jason:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<ki.jasonj@gmail.com>
     #rss:             https://<url>/feed.xml
