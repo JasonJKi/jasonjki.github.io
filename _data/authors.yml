@@ -1,20 +1,20 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-qwtel:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+Jason:
+  name:              <Jason> <Ki>
+  email:             <ki.jasonj@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-
-  # This photo will be used in the about section
+  about:
+        I'm a PhD candidate at CUNY- City College of New York in the Department of Biomedical Engineering. 
+      
+        My research is focused on understanding how the brain respond to the surrounding environment. It's understood that the sensory and other information is represented in the the brain by its networks of neurons and the information about the sensory stimulus is encoded in patterns of action potential and transmitted into and around the brain. 
+        Our approach is to utilize hybrid multidimensional encoding-decoding model to extract features that maps the relationship between the sensory stimulus and neural activity.
+        My goal is to implement deep energy based stochastic model in order to get a deeper understanding of stimulus-response relationship.
+        
+        # This photo will be used in the about section
   picture:
     src:             https://placehold.it/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
@@ -26,8 +26,8 @@ qwtel:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    # facebook:        <username>
-    twitter:         <username>
+    facebook:        <jason.ki1>
+    twitter:         <jasonki1990>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -36,7 +36,7 @@ qwtel:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       <moejobe>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -50,7 +50,7 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <username>
+    github:          <jasonjki>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,8 +61,8 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
-    rss:             https://<url>/feed.xml
+    email:           mailto:<ki.jasonj@gmail.com>
+    #rss:             https://<url>/feed.xml
 
 # Another author
 mdo:
