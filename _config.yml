@@ -130,3 +130,6 @@ compress_html:
 
 sass:
   style:             compressed
+
+paginate:         5
+paginate_path:    '/page-:num/'
