@@ -10,19 +10,19 @@ url:                 https://jasonjki.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             //jasonjki.github.io
+baseurl:             /jasonjki.github.io
 
 # A very short description of your page
-tagline:             Communicating technology and innovation.
+tagline:             Jason Ki - Home
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
+description:         PhD Candidate - CUNY, CTO at Veripad
   
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <jason> <ki>
-  email:             <ki.jasonj@gmail>
+  name:              Jason Ki
+  email:             ki.jasonj@gmail
 
 # Fallback image and color
 image:               /jasonjki.github.io/assets/img/nap.jpg
