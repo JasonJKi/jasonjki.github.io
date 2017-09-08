@@ -25,8 +25,8 @@ author:
   email:             ki.jasonj@gmail
 
 # Fallback image and color
-image:               /jasonjki.github.io/assets/img/AIBrain.jpg
-color:               '#4f86aa'
+image:               /jasonjki.github.io/assets/img/AIBrainSideBar.jpg
+color:               '#165782'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
