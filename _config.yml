@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Jason Ki
+title:               Jason Learn AI
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -17,17 +17,15 @@ tagline:             Home
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
-                      PhD Candidate at CUNY
-                      CTO at Veripad
-  
+description:         A tac(Ki) blog about Neuroscience and AI 
+
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Jason Ki
   email:             ki.jasonj@gmail
 
 # Fallback image and color
-image:               /jasonjki.github.io/assets/img/nap.jpg
+image:               /jasonjki.github.io/assets/img/AIBrain.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
