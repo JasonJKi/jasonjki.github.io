@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Jason Learn AI
+title:               Ki et AI
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -17,7 +17,7 @@ tagline:             Home
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         A tac(Ki) blog about Neuroscience and AI 
+description:         a (somewhat)technical blog about Neuroscience and AI. 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
