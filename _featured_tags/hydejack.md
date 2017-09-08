@@ -1,7 +1,7 @@
 ---
 layout: list
-title: resume
-slug: resume
+title: Research
+slug: Research
 menu: true
 order: 2
 description: >
