@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postl
 title: Example content
 tags: [hyde]
 description: >
