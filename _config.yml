@@ -17,8 +17,9 @@ tagline:             Home
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         PhD Candidate - CUNY
-                     CTO at Veripad
+description:         >
+                      PhD Candidate at CUNY
+                      CTO at Veripad
   
 # This should be the same author as first entry in `_data/authors.yml`
 author:
