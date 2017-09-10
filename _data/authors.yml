@@ -11,10 +11,15 @@ Jason:
     Hi! I'm Jason Ki, the creator of KI Learning.
 
 
-    I'm curently pursing a Ph.D. in biomedical engineering at the City College of New York(CUNY). For my research, I record people's brain activity while they play video games or watch movies. Our goal is to reconstruct the individual's brain signals during this task using machine learning.
+    I'm curently pursing a Ph.D. in biomedical engineering at the City College of New York(CUNY). 
+    In my research, I record people's brain activity while they play video games or watch movies using EEG. 
+    Our goal is to understand how these tasks are represented in the brain. 
+    We utilize various learning algorithms to extract the features that map the relationship between stimulus and the brain activity.
 
 
-    I'm also a cofounder and CTO of Veripad. We detect counterfeit medicine using a low cost chemical testing paper card and a mobile app for automatized analysis. For this, we also use machine learning.
+    I'm also a cofounder and CTO of startup called Veripad. 
+    We detect counterfeit/falsified medicine using a low cost chemical testing paper card.
+    I've developed a mobile app for automatized analysis of this pad via incorporating computer vision and machine learning.
 
 
     I have diverse interests, but I'm particularly interested in neuroscience, AI and machine learning. Also, I try to be up to date on tech trends and innovations. In my blog, I share my two cents on these topics among other things.
