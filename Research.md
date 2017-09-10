@@ -16,9 +16,9 @@ My goal is to implement deep energy based stochastic model in order to get a dee
 
 ## Publications
 
-|Title|Authors|Pdf|code|
+|Title|Authors|pdf|code|
 |:----|:------|:--|:---|
-|Attention strongly modulates reliability of neural responses to naturalistic narrative stimuli|JJ Ki, SP Kelly, LC Parra|pdf|code|
-|Extracting multidimensional stimulus-response correlations using hybrid encoding-decoding of neural activity|JP Dmochowski, J Ki, P DeGuzman, P Sajda, LC Parra|pdf|code|
+|Extracting multidimensional stimulus-response correlations using hybrid encoding-decoding of neural activity. NeuroImage 2017|JP Dmochowski, J Ki, P DeGuzman, P Sajda, LC Parra|pdf|code|
+|Attention strongly modulates reliability of neural responses to naturalistic narrative stimuli. Journal of Neuroscience 2016|J Ki, S Kelly, LC Parra|pdf|code|
 
         
