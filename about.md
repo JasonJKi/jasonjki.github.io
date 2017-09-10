@@ -6,7 +6,3 @@ order: 1
 ---
 
 ## Curriculum Vitae
-
-## Timeline
-
-## Social

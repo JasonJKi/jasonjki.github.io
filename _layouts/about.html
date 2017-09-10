@@ -13,5 +13,13 @@ layout: base
 
   {{ author.about | markdownify }}
 
+  {% if author.social or site.github_username or site.twitter_username %}
+    <div class="sidebar-social">
+        {% include social.html social=author.social2 %}
+    </div>
+  {% endif %}
+  
   {{ content }}
+
+
 </article>

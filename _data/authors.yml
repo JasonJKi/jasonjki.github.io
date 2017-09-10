@@ -7,16 +7,20 @@ Jason:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:
-        I'm a PhD candidate at CUNY- City College of New York in the Department of Biomedical Engineering. 
-      
-        My research is focused on understanding how the brain respond to the surrounding environment. It's understood that the sensory and other information is represented in the the brain by its networks of neurons and the information about the sensory stimulus is encoded in patterns of action potential and transmitted into and around the brain. 
-        Our approach is to utilize hybrid multidimensional encoding-decoding model to extract features that maps the relationship between the sensory stimulus and neural activity.
-        My goal is to implement deep energy based stochastic model in order to get a deeper understanding of stimulus-response relationship.
-        
-        # This photo will be used in the about section
+  about: |
+    Hi! I'm Jason Ki, the creator of KI Learning.
+
+
+    I'm curently pursing a Ph.D. in biomedical engineering at the City College of New York(CUNY). For my research, I have people playing video games or watch movies, and we try to reconstruct their brain signals during this task using machine learning.
+
+
+    I'm also a cofounder/CTO of Veripad. We try to detect counterfeit medicine using a low cost paper card and mobile app.
+
+
+    Thank you for checking out my blog! Feel free to to connect with me on my socials.
+  # This photo will be used in the about section
   picture:
-    src:             ../assets/img/profile2.jpg
+    src:             ../assets/img/me.jpg
   
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -24,10 +28,9 @@ Jason:
   social:
     #facebook:        jason.ki1
     github:          JasonJKi
-    email:           mailto:ki.jasonj@gmail.com
-    twitter:         jasonki1990
-    # google:          <number>
     google-scholar:  fsRsjMAAAAAJ&hl=en&oi=sra
+    email:           mailto:ki.jasonj@gmail.com
+    # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -59,3 +62,11 @@ Jason:
     # stumbleupon:     <username>
     # paypal:          <username>
     #rss:             https://<url>/feed.xml
+
+  social2:
+    facebook:        jason.ki1
+    instagram:       moejobe
+    twitter:         jasonki1990
+    email:           mailto:ki.jasonj@gmail.com
+
+    
