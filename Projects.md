@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-tags: Project
+tags: Projects
 menu: true
 order: 3
 description: >

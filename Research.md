@@ -4,7 +4,6 @@ title: Research
 tags: Research
 menu: true
 order: 2
-description: >
 ---
 
 My research is focused on understanding how the brain respond to the surrounding environment. It's understood that the sensory and other information is represented in the the brain by its networks of neurons and the information about the sensory stimulus is encoded in patterns of action potential and transmitted into and around the brain. 
