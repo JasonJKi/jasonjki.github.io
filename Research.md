@@ -12,4 +12,12 @@ My research is focused on understanding how the brain respond to the surrounding
 Our approach is to utilize hybrid multidimensional encoding-decoding model to extract features that maps the relationship between the sensory stimulus and neural activity.
 
 My goal is to implement deep energy based stochastic model in order to get a deeper understanding of stimulus-response relationship.
+
+
+## Publications
+|Title|Authors|Pdf|code|
+|:-|:-|:-|:-|
+|Attention strongly modulates reliability of neural responses to naturalistic narrative stimuli|JJ Ki, SP Kelly, LC Parra|pdf|code|
+|Extracting multidimensional stimulus-response correlations using hybrid encoding-decoding of neural activity|JP Dmochowski, J Ki, P DeGuzman, P Sajda, LC Parra|pdf|code|
+
         
