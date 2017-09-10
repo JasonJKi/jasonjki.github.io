@@ -4,9 +4,26 @@ title: Example content
 tags: Research
 comments: true
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! This is an example blog post 
 author: Jason
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Inline HTML elements
 
