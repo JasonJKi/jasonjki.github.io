@@ -11,21 +11,24 @@ Jason:
     Hi! I'm Jason Ki, the creator of KI Learning.
 
 
-    I'm curently pursing a Ph.D. in biomedical engineering at the City College of New York(CUNY). 
-    In my research, I record people's brain activity while they play video games or watch movies using EEG. 
+    I'm curently pursing a Ph.D. in biomedical engineering at the City College of New York (CUNY). 
+    In my research, I record people's brain activity using EEG while they play video games or watch movies. 
     Our goal is to understand how these tasks are represented in the brain. 
     We utilize various learning algorithms to extract the features that map the relationship between stimulus and the brain activity.
 
 
-    I'm also a cofounder and CTO of startup called Veripad. 
-    We detect counterfeit/falsified medicine using a low cost chemical testing paper card.
-    I've developed a mobile app for automatized analysis of this pad via incorporating computer vision and machine learning.
+    I'm also a co-founder and CTO of VeriPad. 
+    We detect counterfeit/falsified medicine using a low-cost chemical testing paper pads.
+    I've developed a mobile app for automatized analysis of the pads using computer vision and machine learning.
 
 
-    I have diverse interests, but I'm particularly interested in neuroscience, AI and machine learning. Also, I try to be up to date on tech trends and innovations. In my blog, I share my two cents on these topics among other things.
+    I have diverse interests, but I'm particularly interested in neuroscience, AI and machine learning. 
+    Also, I try to be up-to-date on tech trends and innovations. 
+    In my blog, I share my two cents on these topics among other things.
 
     
     Thank you for checking out my website! Feel free to to connect with me on social media.
+
   # This photo will be used in the about section
   picture:
     src:             ../assets/img/profile1.jpg
@@ -76,5 +79,3 @@ Jason:
     instagram:       moejobe
     twitter:         jasonki1990
     email:           mailto:ki.jasonj@gmail.com
-
-    
