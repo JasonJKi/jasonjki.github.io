@@ -17,7 +17,7 @@ tagline:             Home
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         a blog about neuroscience and machine learning among other things. 
+description:         a blog about machine learning, neuroscience, and latest tech trends among other things. 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
