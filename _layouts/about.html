@@ -17,10 +17,13 @@ layout: base
   {{ author.about | markdownify }}
   
   {% if author.social or site.github_username or site.twitter_username %}
-    <h2 class="page-title hr"> "social" </h2>
+    <h2 class="page-title hr"> 
+        social 
     <div class="sidebar-social">
       {% include social.html social=author.social2 %}
     </div>
+    </h2>
+    
   {% endif %}
   {{ content }}
 
